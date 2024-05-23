@@ -1,7 +1,7 @@
 """
 A python Script that reads for a process command in a config file
-and starts the command if not running, with the ability to attempt
-to restart the command if the exit status is other than 0
+and starts and monitor the command in a subprocess, with the ability 
+to restart the process if the exit status is other than 0
 """
 
 import subprocess
