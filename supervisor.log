@@ -1,0 +1,34 @@
+INFO:__main__:Supervisor program in progress
+INFO:__main__:Supervisor program in progress
+INFO:__main__:Process %s running
+INFO:__main__:Process execution successful 
+INFO:__main__:Supervisor program in progress
+INFO:__main__:Process %s running
+INFO:__main__:Process execution successful 
+INFO:__main__:Supervisor program in progress
+INFO:__main__:Process %s running
+INFO:__main__:Process execution successful 
+INFO:__main__:Supervisor program in progress
+INFO:__main__:Process ['python', 'calculator.py'] running
+INFO:__main__:Process execution successful 
+INFO:__main__:Supervisor program in progress
+INFO:__main__:Process ['python', 'list.py'] running
+INFO:__main__:Process execution successful 
+INFO:__main__:Supervisor program in progress
+INFO:__main__:Process ['python', 'names.py'] running
+INFO:__main__:Process execution failed 
+INFO:__main__:Process ['python', 'names.py'] running
+INFO:__main__:Process execution failed 
+INFO:__main__:Process ['python', 'names.py'] running
+INFO:__main__:Process execution successful 
+INFO:__main__:Supervisor program in progress
+INFO:__main__:Process ['python', 'calculator.py'] running
+INFO:__main__:Process execution successful 
+INFO:__main__:Supervisor program in progress
+INFO:__main__:Process ['python', 'list.py'] running
+INFO:__main__:Process execution successful 
+INFO:__main__:Supervisor program in progress
+INFO:__main__:Process ['python', 'names.py'] running
+INFO:__main__:Process execution failed. Restarting..
+INFO:__main__:Process ['python', 'names.py'] running
+INFO:__main__:Process execution successful 
